@@ -1,0 +1,26 @@
+[
+	{
+		"nombre": "zeus",
+		"especie": "gato",
+		"caracteristicas":{
+			"gustos":["atún","aruñar"],
+			"nogusto":["remedios","pollo"]
+				}
+	},
+	{
+		"nombre": "adonis",
+		"especie": "gato",
+		"caracteristicas":{
+			"gustos":["esconderse","sardinas"],
+			"nogusto":["que lo mimen","jugar"]
+				}
+	},
+	{
+		"nombre": "osiris",
+		"especie": "gato",
+		"caracteristicas":{
+			"gustos":["dormir","saludar"],
+			"nogusto":["bañarse","trabajar"]
+				}
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"nombre": "sanzon",
+		"especie": "perro",
+		"caracteristicas":{
+			"gustos":["traer el palo","cazar"],
+			"nogusto":["dormir","obedecer"]
+				}
+	},
+	{
+		"nombre": "rambo",
+		"especie": "perro",
+		"caracteristicas":{
+			"gustos":["gallina","jugar"],
+			"nogusto":["tranquilidad","caminar"]
+				}
+	},
+	{
+		"nombre": "oso",
+		"especie": "perro",
+		"caracteristicas":{
+			"gustos":["vagar","ladrar"],
+			"nogusto":["ruido","carretera"]
+				}
+	}
+]
